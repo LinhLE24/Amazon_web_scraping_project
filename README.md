@@ -1,3 +1,3 @@
-Introduction : The project extracts product information from Amazon website such as product name, product price, product rating, number of reviewers, product status, number of products sold in the past month.
+Introduction : The project extracts product information from Amazon (name, price, ratings, reviews, availability, monthly sales) to analyze pricing trends and customer reviews for online sales optimization.
 
 Technology Used: Python, BeautifulSoup, Jupyter Notebook
